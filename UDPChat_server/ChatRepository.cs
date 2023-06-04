@@ -10,7 +10,7 @@ public class ChatRepository : IChatRepository
     public ChatRepository(IMongoClient mongoClient, IChatDatabaseSettings databaseSettings)
     {
         var database = mongoClient.GetDatabase(databaseSettings.DatabaseName);
-        _chatCollection = database.GetCollection<ChatMessage>(databaseSettings.CollectionName);
+        _chatCollection = database.GetCollection<ChatMessage>(databaseSettings.MessagesCollectionName);
     }
 
     public async Task<List<ChatMessage>> GetAllMessages()
