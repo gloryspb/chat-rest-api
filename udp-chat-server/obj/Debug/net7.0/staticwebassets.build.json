@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yPPa6sIZXu6nt8YIHmjQQBLMNyfp1rxWL89tcU+WFrc=",
+  "Source": "udp-chat-server",
+  "BasePath": "_content/udp-chat-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
