@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kirill\\Documents\\GitHub\\udp-chat\\udp-chat-server\\udp-chat-server.csproj": {}
+    "C:\\Users\\Kirill\\Documents\\GitHub\\udp-chat\\udp-chat-server\\UDPChat_server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kirill\\Documents\\GitHub\\udp-chat\\udp-chat-server\\udp-chat-server.csproj": {
+    "C:\\Users\\Kirill\\Documents\\GitHub\\udp-chat\\udp-chat-server\\UDPChat_server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kirill\\Documents\\GitHub\\udp-chat\\udp-chat-server\\udp-chat-server.csproj",
+        "projectUniqueName": "C:\\Users\\Kirill\\Documents\\GitHub\\udp-chat\\udp-chat-server\\UDPChat_server.csproj",
         "projectName": "UDPChat_server",
-        "projectPath": "C:\\Users\\Kirill\\Documents\\GitHub\\udp-chat\\udp-chat-server\\udp-chat-server.csproj",
+        "projectPath": "C:\\Users\\Kirill\\Documents\\GitHub\\udp-chat\\udp-chat-server\\UDPChat_server.csproj",
         "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kirill\\Documents\\GitHub\\udp-chat\\udp-chat-server\\obj\\",
         "projectStyle": "PackageReference",

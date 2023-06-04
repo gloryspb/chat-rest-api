@@ -1,6 +1,6 @@
-﻿using udp_chat_server.Models;
+﻿using UDPChat_server.Models;
 
-namespace udp_chat_server;
+namespace UDPChat_server;
 
 public interface IChatRepository
 {

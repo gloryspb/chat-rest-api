@@ -1,4 +1,4 @@
-﻿namespace udp_chat_server.Models;
+﻿namespace UDPChat_server.Models;
 
 public class ChatMessage
 {

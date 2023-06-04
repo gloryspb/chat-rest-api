@@ -27,7 +27,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace udp_chat_server
+namespace UDPChat_server
 {
      public class Program
      {

@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using udp_chat_server.Models;
+using UDPChat_server.Models;
 
-namespace udp_chat_server.Controllers;
+namespace UDPChat_server.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

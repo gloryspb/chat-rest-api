@@ -1,4 +1,4 @@
-﻿namespace udp_chat_server;
+﻿namespace UDPChat_server;
 
 public class ChatDatabaseSettings : IChatDatabaseSettings
 {

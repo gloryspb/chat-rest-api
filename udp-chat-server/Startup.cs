@@ -6,7 +6,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 
-namespace udp_chat_server
+namespace UDPChat_server
 {
     public class Startup
     {
