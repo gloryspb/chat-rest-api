@@ -1,2 +1,2 @@
-# udp-chat
+# tcp-chat
 TCP chat on CSharp
